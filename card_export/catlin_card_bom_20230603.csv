@@ -1,0 +1,21 @@
+Designator,Comment,Footprint,JCLPCB Part #
+"BT1,",Batt LIR2450,Battery:BatteryHolder_Keystone_3008_1x2450,C964845
+"C1, C2, C3,",1 uF,Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,C28323
+"D1,",R_LED,PowerIC:LED_SMD3030,C1322324
+"D2,",G_LED,PowerIC:LED_SMD3030,C1322325
+"D3,",B_LED,PowerIC:LED_SMD3030,C440449
+"D4,",SS54,Diode_SMD:D_SMA_Handsoldering,C22452
+"D5,",TVS,Diode_SMD:D_SOD-123,C2990493
+"J1,",pinhead,Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical,
+"R1, R4, R6,",100Ω,Resistor_SMD:R_1206_3216Metric,C17901
+"R2, R3, R5,",300Ω,Resistor_SMD:R_1206_3216Metric,C17887
+"R7,",1kΩ,Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,C17513
+"R8,",2.4kΩ,Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,C17526
+"RV1, RV2, RV3,",Pot 5kΩ 0.25W,Potentiometer_SMD:Potentiometer_Bourns_3314G_Vertical,C719180
+"SC1,",Solar_Cell,Resistor_SMD:R_4020_10251Metric,SM141K10LV
+"SW1,",SW_SPDT,Button_Switch_SMD:SW_SPDT_PCM12,C128955
+"TH1,",Thermistor_PTC,Resistor_SMD:R_1812_4532Metric_Pad1.30x3.40mm_HandSolder,
+"TP1, TP4,",TestPoint,TestPoint:TestPoint_Pad_2.0x2.0mm,
+"TP2, TP5,",TP,TestPoint:TestPoint_Pad_4.0x4.0mm,
+"TP3,",TP,TestPoint:TestPoint_Pad_1.0x1.0mm,
+"U1,",AP2210K-ADJ,Package_TO_SOT_SMD:SOT-23-5,C507874

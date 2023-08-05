@@ -26,4 +26,9 @@ fp-info-cache
 
 # Exported BOM files
 *.xml
-*.csv
+
+# Backups
+*.zip
+
+*.png
+*.DS_Store
